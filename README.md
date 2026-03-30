@@ -1,3 +1,8 @@
+<div align="left">
+  <blockquote>
+    <p><b>This is my UPC account. Feel free to check out @joelmarquez05 for my public projects!</p>
+  </blockquote>
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/joelmarquez05/joelmarquez05/main/header.jpg" width="100%" style="border-radius: 15px;">
 </div>
