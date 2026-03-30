@@ -1,15 +1,48 @@
-# 💫 About Me:
-🎓 Studying Computer Science at Universitat Politècnica de Catalunya<br>🤖 Interested in Data Science and Artificial Intelligence<br>🌱 Currently learning web development
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joelmarquez05/joelmarquez05/main/header.jpg" width="100%" style="border-radius: 15px;">
+</div>
 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaycoding205&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaycoding205&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaycoding205&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=3081F7&center=true&vCenter=true&width=600&lines=Nice+to+meet+you%2C+I'm+Joel+%F0%9F%91%8B;Data+Science+%26+Engineering+@+UPC;Junior+Data+Engineer"/>
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joel-marquez-alvarez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jmarquezalvarez05@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"></a>
+  <a href="mailto:joel.marquez@estudiantat.upc.edu"><img src="https://img.shields.io/badge/University_Email-B71C1C?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University Email"></a>
+</p>
+
+<div align="center">
+  <blockquote>
+    <p><b>Data Engineer & Data Science Student</b> from Barcelona with a strong focus on distributed systems, data warehousing, and scalable MLOps architectures. Passionate about transforming raw data into actionable insights.</p>
+  </blockquote>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jaycoding205&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I'm currently up to:
+
+- 🎓 Studying **Data Science & Engineering** at Universitat Politècnica de Catalunya (UPC).
+- 🌱 Deepening my knowledge in **Distributed Systems (PySpark, Hadoop)** and **Cloud Computing (AWS)**.
+- 🗣️ Speaking Native Spanish & Catalan, **C2 English**, and currently holding an **HSK 3 in Chinese**.
+- ♟️ In my free time, you'll find me at the gym, playing strategy games like Chess, or participating at hackathons!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,cpp,r,postgres,mongodb" />
+</a>
+
+#### Data Engineering & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,ubuntu" />
+</a>
+
+<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
